@@ -230,7 +230,7 @@ const ProductSection = () => {
   ];
 
   return (
-    <section id="products" className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6 bg-background">
+    <section id="products" className="py-12 sm:py-16 lg:py-20 px-4 sm:px-6 bg-background"><br /><br />
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12 sm:mb-16">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 text-foreground">
