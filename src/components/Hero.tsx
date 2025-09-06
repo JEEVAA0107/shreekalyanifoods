@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import heroImage from "@/assets/hero-ingredients.jpg";
 
 const Hero = () => {
