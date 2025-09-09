@@ -8,7 +8,7 @@ const Footer = () => {
         </p>
         <div className="border-t border-primary-foreground/20 pt-6 mt-6">
           <p className="text-primary-foreground/60 text-sm">
-            &copy; 2024 Shree Kalyani Foods. All rights reserved.
+             2024 Shree Kalyani Foods. All rights reserved.
           </p>
         </div>
       </div>
